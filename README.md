@@ -53,15 +53,16 @@ ___
 
 ### Чекбоксы
 
-- [] Не выполнил
-- [x] Выполнил
+[] Не выполнил
+[x] Выполнил
 
 ### Изображения
 
-![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fodessa-suveniri.od.ua%2F%25D0%25BA%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BA%2B%25D0%25B7%25D0%25B0%2B%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D1%258C%25D1%258E%25D1%2582%25D0%25B5%25D1%2580%25D0%25BE%25D0%25BC&psig=AOvVaw1akbHuQHRwvwt7FlN-aVom&ust=1714119783367000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjfy_n33IUDFQAAAAAdAAAAABAE "Котик перед компьютером")
+![Изображение](https://ianimal.ru/wp-content/uploads/2011/11/150086638.jpg"Котик перед компьютером")
 
 ### Таблицы
 
 |Столбец 1|Столбец 2|
+|--|--|
 |Значение 1|Значение 2|
 |Значение 3|
